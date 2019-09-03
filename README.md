@@ -1,2 +1,2 @@
 # Zabbix
-Instalando e Configurando Zabbix-Server + Grafana
+Instalando e Configurando Zabbix-Server MariaDB + Grafana
