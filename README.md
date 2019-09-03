@@ -1,4 +1,4 @@
-# Zabbix
+# Zabbix Server
 Instalando e Configurando Zabbix-Server, MariaDB, Grafana e Apache
 
 Nestes link mostro como realizar a instalação e a execução: 
